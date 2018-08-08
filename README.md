@@ -1,2 +1,3 @@
 # C_plusplus
-08072018
+created by 08072018
+To practice C++
